@@ -4,7 +4,7 @@
 - 🔭 Atualmente estudando e iniciando no mundo da programação!
 - 🌱 Estudando Python, Delphi e HTML/CSS 
 - 📫 E-mail para contato: kaique.mendesdev@gmail.com
-- ⚡ Fun fact: 17 yo
+- ⚡ Fun fact: Love code and video Games
  ------------------------------------------------------------------
  
  <div align="center">
