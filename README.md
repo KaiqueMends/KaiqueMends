@@ -2,6 +2,7 @@
 
 ------------------------------------------------------------------
 - 🔭 Atualmente estudando e iniciando no mundo da programação!
+-            !! Junior Dev !!
 - 🌱 Estudando Python, Java, JavaScript e HTML/CSS 
 - 📫 E-mail para contato: kaique.mendesdev@gmail.com
 - ⚡ Fun fact: Love code and video Games
