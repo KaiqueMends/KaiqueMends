@@ -2,8 +2,8 @@
 
 ------------------------------------------------------------------
 - 🔭 Técnico em Desenvolvimento de Sistemas pelo SENAI
-        Engenheiro de Software pela UniFan 2/8
--            !! Underdegree Software  Engineer !!
+- ☕ Engenheiro de Software pela UniFan 2/8
+-            !! Underdegree Software Engineer !!
 - 🌱 Estudando Python, Java, JavaScript, React, IA, Automações e BI
 - 📫 E-mail para contato: kaique.mendesdev@gmail.com
 - ⚡ Fun fact: Love code and video Games
