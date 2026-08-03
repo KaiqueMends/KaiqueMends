@@ -1,8 +1,8 @@
-## Olá!! eu sou Kaique Costa Mendes.
+## Olá!! Eu sou Kaique Costa Mendes.
 
 ------------------------------------------------------------------
 - 🔭 Técnico em Desenvolvimento de Sistemas pelo SENAI
-- ☕ Engenheiro de Software pela UniFan 2/8
+- ☕ Engenheiro de Software pela UniFan 3/8
 -            !! Underdegree Software Engineer !!
 - 🌱 Estudando Python, Java, JavaScript, React, IA, Automações e BI
 - 📫 E-mail para contato: kaique.mendesdev@gmail.com
