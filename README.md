@@ -18,7 +18,4 @@
  <img  align="center" alt="Delphi" height="30" width="30" src="https://img.icons8.com/officel/48/000000/delphi-ide.png"/>
  </div>
 </div> 
-   
-   ##
-   
- <img src="https://github.com/KaiqueMends/KaiqueMends/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+ 
